@@ -1,0 +1,9 @@
+/plans.md
+/.local/dz-sign/
+__pycache__/
+*.py[cod]
+/demo/frontend/node_modules/
+/demo/frontend/.next/
+/demo/frontend/*.tsbuildinfo
+/demo/frontend/.env.local
+/.ruff_cache/
