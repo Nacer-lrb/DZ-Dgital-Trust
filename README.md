@@ -30,6 +30,7 @@ Le cachet électronique, les circuits d’approbation, les comptes utilisateurs 
 | `docs/cryptography/`, `docs/standards/`, `docs/algeria/` | Études détaillées de référence, en français |
 | `legal/` | Publication officielle utilisée pour l’étude juridique |
 | `resources/` | Registre des sources et glossaire de référence |
+| [`diagrams/`](diagrams/README.md) | Architecture, parcours PDF, chaîne de confiance et conservation |
 
 ## Démarrage et vérification
 

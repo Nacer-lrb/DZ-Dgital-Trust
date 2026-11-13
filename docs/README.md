@@ -1,5 +1,7 @@
 # Documentation
 
+Les [diagrammes du projet](../diagrams/README.md) illustrent l’architecture actuelle, les opérations PDF, la chaîne de confiance et la conservation des documents.
+
 Les manuels couvrent le même périmètre dans les trois langues : installation, exploitation, API, architecture, sécurité, notions techniques, références juridiques et contribution.
 
 | Français | English | العربية |
